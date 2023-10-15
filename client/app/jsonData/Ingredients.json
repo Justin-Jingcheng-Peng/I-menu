@@ -1,0 +1,118 @@
+{
+  "Chicken": {
+    "id": "Chicken",
+    "name": "Chicken"
+  },
+  "Beef": {
+    "id": "Beef",
+    "name": "Beef"
+  },
+  "Pork": {
+    "id": "Pork",
+    "name": "Pork"
+  },
+  "Fish": {
+    "id": "Fish",
+    "name": "Fish"
+  },
+  "Turkey": {
+    "id": "Turkey",
+    "name": "Turkey"
+  },
+  "Lamb": {
+    "id": "Lamb",
+    "name": "Lamb"
+  },
+  "Tomato": {
+    "id": "Tomato",
+    "name": "Tomato"
+  },
+  "Potato": {
+    "id": "Potato",
+    "name": "Potato"
+  },
+  "Carrot": {
+    "id": "Carrot",
+    "name": "Carrot"
+  },
+  "Onion": {
+    "id": "Onion",
+    "name": "Onion"
+  },
+  "Garlic": {
+    "id": "Garlic",
+    "name": "Garlic"
+  },
+  "Pepper": {
+    "id": "Pepper",
+    "name": "Pepper"
+  },
+  "Salt": {
+    "id": "Salt",
+    "name": "Salt"
+  },
+  "Sugar": {
+    "id": "Sugar",
+    "name": "Sugar"
+  },
+  "OliveOil": {
+    "id": "OliveOil",
+    "name": "Olive Oil"
+  },
+  "Butter": {
+    "id": "Butter",
+    "name": "Butter"
+  },
+  "Egg": {
+    "id": "Egg",
+    "name": "Egg"
+  },
+  "Milk": {
+    "id": "Milk",
+    "name": "Milk"
+  },
+  "Cheese": {
+    "id": "Cheese",
+    "name": "Cheese"
+  },
+  "Rice": {
+    "id": "Rice",
+    "name": "Rice"
+  },
+  "Pasta": {
+    "id": "Pasta",
+    "name": "Pasta"
+  },
+  "Bread": {
+    "id": "Bread",
+    "name": "Bread"
+  },
+  "Flour": {
+    "id": "Flour",
+    "name": "Flour"
+  },
+  "Yeast": {
+    "id": "Yeast",
+    "name": "Yeast"
+  },
+  "Vinegar": {
+    "id": "Vinegar",
+    "name": "Vinegar"
+  },
+  "SoySauce": {
+    "id": "SoySauce",
+    "name": "Soy Sauce"
+  },
+  "Ginger": {
+    "id": "Ginger",
+    "name": "Ginger"
+  },
+  "Cinnamon": {
+    "id": "Cinnamon",
+    "name": "Cinnamon"
+  },
+  "Nutmeg": {
+    "id": "Nutmeg",
+    "name": "Nutmeg"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "Diabetes": {
+    "id": "Diabetes",
+    "name": "Diabetes"
+  },
+  "Heart Disease": {
+    "id": "Heart Disease",
+    "name": "Heart Disease"
+  },
+  "Hypertension": {
+    "id": "Hypertension",
+    "name": "Hypertension"
+  },
+  "Asthma": {
+    "id": "Asthma",
+    "name": "Asthma"
+  },
+  "Cancer": {
+    "id": "Cancer",
+    "name": "Cancer"
+  },
+  "Chronic Obstructive Pulmonary Disease": {
+    "id": "Chronic Obstructive Pulmonary Disease",
+    "name": "Chronic Obstructive Pulmonary Disease"
+  },
+  "Stroke": {
+    "id": "Stroke",
+    "name": "Stroke"
+  },
+  "Arthritis": {
+    "id": "Arthritis",
+    "name": "Arthritis"
+  },
+  "Depression": {
+    "id": "Depression",
+    "name": "Depression"
+  },
+  "Anxiety": {
+    "id": "Anxiety",
+    "name": "Anxiety"
+  },
+  "Chronic Kidney Disease": {
+    "id": "Chronic Kidney Disease",
+    "name": "Chronic Kidney Disease"
+  },
+  "Osteoporosis": {
+    "id": "Osteoporosis",
+    "name": "Osteoporosis"
+  },
+  "Alzheimer's Disease": {
+    "id": "Alzheimer's Disease",
+    "name": "Alzheimer's Disease"
+  },
+  "Epilepsy": {
+    "id": "Epilepsy",
+    "name": "Epilepsy"
+  },
+  "Glaucoma": {
+    "id": "Glaucoma",
+    "name": "Glaucoma"
+  },
+  "Liver Disease": {
+    "id": "Liver Disease",
+    "name": "Liver Disease"
+  },
+  "Chronic Pain": {
+    "id": "Chronic Pain",
+    "name": "Chronic Pain"
+  },
+  "Sleep Apnea": {
+    "id": "Sleep Apnea",
+    "name": "Sleep Apnea"
+  },
+  "Gastroesophageal Reflux Disease": {
+    "id": "Gastroesophageal Reflux Disease",
+    "name": "Gastroesophageal Reflux Disease"
+  },
+  "Parkinson's Disease": {
+    "id": "Parkinson's Disease",
+    "name": "Parkinson's Disease"
+  },
+  "Multiple Sclerosis": {
+    "id": "Multiple Sclerosis",
+    "name": "Multiple Sclerosis"
+  }
+}
